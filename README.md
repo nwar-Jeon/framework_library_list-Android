@@ -57,4 +57,4 @@
 
 ## V
 
-+ [AAC ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
++ [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
