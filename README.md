@@ -52,6 +52,8 @@
 
 + [Retrofit](https://github.com/square/retrofit)
 + [Room](https://developer.android.com/topic/libraries/architecture/room)
++ [RxJava](https://github.com/ReactiveX/RxJava)
++ [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 
 
 
