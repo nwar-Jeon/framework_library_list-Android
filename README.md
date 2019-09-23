@@ -26,6 +26,7 @@
 
 + [LifeCycle](https://developer.android.com/topic/libraries/architecture/lifecycle)
 + [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
++ [Lottie](https://github.com/airbnb/lottie-android)
 
 
 
